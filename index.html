@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="title">Salist encryption</h1>
+        <p class="label">Enter Text:</p>
+        <textarea id="inputText" placeholder="Type your text here..."></textarea>
+        <p class="label">Enter Key (e.g. , 0x12345678): <a href="key.html">Key generator</a></p>
+        <input type="text" id="keyInput" class="key-input" placeholder="Type your text here...">
+        <button class="btn" id="encryptBtn"><span>Encrypt</span></button>
+        <button class="btn" id="decryptBtn"><span>Decrypt</span></button>
+        <label for="outputText" class="label">Result:</label>
+        <input type="text" id="outputText" readonly>
+        <button class="btn" id="copyBtn">Copy</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
