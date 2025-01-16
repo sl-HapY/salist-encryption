@@ -162,6 +162,21 @@ button {
     animation: chitchat linear both var(--btn-animation-duration);
 }
 
+.foot {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #dddddd;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    height: 50px;
+
+}
+
 @keyframes chitchat {
     0% {
         content: "#";
