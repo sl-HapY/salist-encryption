@@ -11,6 +11,6 @@ attack(In The Last Update It Was Only 18 Minutes!).
 > [!TIP]
 > It's Best to Use Copy Button In The Website To Avoid The Misstakings
 
-✔️ Make Encryption Method More Secure
-✔️ Make Key More Secure
+✔️ Make Encryption Method More Secure\
+✔️ Make Key More Secure\
 🔴 Using String as Keys
