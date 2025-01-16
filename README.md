@@ -6,7 +6,7 @@ With this encryption method [Quantum computing](https://en.wikipedia.org/wiki/Qu
 it using [Brute Force](https://en.wikipedia.org/wiki/Brute-force_attack)
 attack(In The Last Update It Was Only 18 Minutes!).
 > [!IMPORTANT]
-> You Need To Use 16 Hex Numbers For Keys
+> You Need To Use 16 [Hex](https://en.wikipedia.org/wiki/Hexadecimal) Numbers For Keys
 
 > [!TIP]
 > It's Best to Use Copy Button In The Website To Avoid The Misstakings
