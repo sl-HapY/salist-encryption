@@ -1,6 +1,6 @@
 # [**Salist Encryptor**](https://sl-hapy.github.io/salist-encryption/)
 
-### [русская версия](russki.md)
+### [русская версия](Russki.md)
 
 ## [Site](https://sl-hapy.github.io/salist-encryption/)
 
