@@ -4,8 +4,6 @@
 
 ## [Веб-сайт](https://sl-hapy.github.io/salist-encryption/)
 
-> ## Новый метод шифрования
-### Мы добавили новый метод шифрования
 С этим методом шифрования [Квантовые вычисления](https://ru.wikipedia.org/wiki/Quantum_computing) вероятнее всего будут тратить 584 года на расшифровку\
 с использованием атаки [Brute Force](https://ru.wikipedia.org/wiki/Brute-force_attack) (в последнем обновлении это было всего 18 минут!).
 > [!IMPORTANT]
