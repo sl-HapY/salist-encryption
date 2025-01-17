@@ -2,7 +2,7 @@
 
 ### [русская версия](Russki.md)
 
-## [Site](https://sl-hapy.github.io/salist-encryption/)
+## [Open Salist Encryptor](https://sl-hapy.github.io/salist-encryption/)
 
 > ## New Encrypting method
 ### We Have Added a New Encrypting method
