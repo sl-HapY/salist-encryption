@@ -4,8 +4,7 @@
 
 ## [Открыть шифровальщик Салист](https://sl-hapy.github.io/salist-encryption/)
 
-С этим методом шифрования [квантовым компьютерам](https://en.wikipedia.org/wiki/Quantum_computing) потребуется примерно 584 года, чтобы расшифровать его с помощью атаки [Brute Force](https://en.wikipedia.org/wiki/Brute-force_attack)\
-(в последнем обновлении это занимало всего 18 минут!).
+С этим методом шифрования [квантовым компьютерам](https://en.wikipedia.org/wiki/Quantum_computing) потребуется примерно 584 года, чтобы расшифровать его с помощью атаки [Brute Force](https://en.wikipedia.org/wiki/Brute-force_attack) (в последнем обновлении это занимало всего 18 минут!).
 > [!IMPORTANT]
 > Вы должны помнить свой 16-значный [Hex](https://en.wikipedia.org/wiki/Hexadecimal) ключ для расшифровки текста.
 
