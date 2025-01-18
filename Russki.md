@@ -1,6 +1,6 @@
 # [**Шифровальщик Салист**](https://sl-hapy.github.io/salist-encryption/)
 
-### [английская версия](README.md)
+### [English version](README.md)
 
 ## [Открыть шифровальщик Салист](https://sl-hapy.github.io/salist-encryption/)
 
