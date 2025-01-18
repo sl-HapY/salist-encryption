@@ -13,9 +13,9 @@ attack(In The Last Update It Was Only 18 Minutes!).
 > [!TIP]
 > It's Best to Use Copy Button In The [Website](https://sl-hapy.github.io/salist-encryption/) To Avoid The Misstakings
 
-> ✔️ Increased encryption security /
-✔️ Keys are now more secure /
-🔴 Using strings as keys
+> ✔️ Increased encryption security
+> ✔️ Keys are now more secure
+> 🔴 Using strings as keys
 
 ## Privacy Policy
 We respect your privacy. This website does not collect, store, or share any personal information from its users.  
