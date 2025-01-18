@@ -16,3 +16,12 @@ attack(In The Last Update It Was Only 18 Minutes!).
 ✔️ Make Encryption Method More Secure\
 ✔️ Make Key More Secure\
 🔴 Using String as Keys
+
+## Privacy Policy
+We respect your privacy. This website does not collect, store, or share any personal information from its users.  
+We do not use cookies, tracking tools, or any form of analytics to monitor your activity.  
+
+## License
+This project is licensed under the "(All Rights Reserved)[https://github.com/sl-HapY/salist-encryption/blob/main/LICENSE]" license.  
+Unauthorized use, reproduction, or distribution is strictly prohibited.  
+Please contact hapy@mail.ir for permissions or inquiries.
