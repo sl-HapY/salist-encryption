@@ -24,6 +24,6 @@ We respect your privacy. This website does not collect, store, or share any pers
 We do not use cookies, tracking tools, or any form of analytics to monitor your activity.  
 
 ## License
-This project is licensed under the "(All Rights Reserved)[https://github.com/sl-HapY/salist-encryption/blob/main/LICENSE]" license.  
+This project is licensed under the (All Rights Reserved)[https://github.com/sl-HapY/salist-encryption/blob/main/LICENSE] license.  
 Unauthorized use, reproduction, or distribution is strictly prohibited.  
 Please contact hapy@mail.ir for permissions or inquiries.
